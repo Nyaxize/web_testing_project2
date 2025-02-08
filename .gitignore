@@ -1,0 +1,15 @@
+# Ignore compiled Java classes
+bin/
+
+# Ignore ChromeDriver
+chromedriver.exe
+LICENSE.chromedriver
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
